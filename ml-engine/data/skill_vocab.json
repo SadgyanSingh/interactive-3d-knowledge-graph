@@ -1,0 +1,12 @@
+{
+  "python": ["python"],
+  "javascript": ["js", "javascript"],
+  "react": ["react", "reactjs"],
+  "nodejs": ["node", "nodejs"],
+  "mongodb": ["mongo", "mongodb"],
+  "docker": ["docker"],
+  "git": ["git", "github"],
+  "html": ["html"],
+  "css": ["css"],
+  "sql": ["sql", "mysql", "postgres"]
+}
