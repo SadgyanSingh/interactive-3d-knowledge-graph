@@ -12,5 +12,5 @@ skills and learning progression by aggregating data from GitHub and other source
 ## Team
 - Sadgyan Singh – ML/DL & System Lead
 - Anshika – Backend Engineer
-- Shashikant – Graph Engineer
+- Shashi kant – Graph Engineer
 - Ashish Raj – Frontend Engineer
